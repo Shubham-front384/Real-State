@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #2d2c2c;
+  color: #fafafa;
+  overflow-x: hidden;
+  font-family: "Urbanist", sans-serif;
+  font-size: 14px;
+}
+
+/* HomeInfoRight */
+.svg-discover {
+  animation: rotate 15s linear infinite;
+}
+
+.card1 {
+  grid-template-areas: "happy-customer properties-client"
+                       "year-experience year-experience";
+}
+
+.happy-customer {
+  grid-area: happy-customer;
+}
+
+.properties-client {
+  grid-area: properties-client;
+}
+
+.year-experience {
+  grid-area: year-experience;
+}
+
+.card2 {
+  grid-template-areas: "dream-home property-value"
+                       "property-management informed-decision";
+}
+
+.dream-home {
+  grid-area: dream-home;
+}
+
+.property-value {
+  grid-area: property-value;
+}
+
+.property-management {
+  grid-area: property-management;
+}
+
+.informed-decision {
+  grid-area: informed-decision;
+}
+
+/* CSS Code */
+.swiper-wrapper {
+  width: 100%;
+  height: max-content !important;
+  transition-timing-function: linear !important;
+  position: relative;
+}
+
+.swiper-pagination-bullet {
+  background: #4f46e5;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@media (min-width: 768px) {
+  .card1 {
+    grid-template-areas: "happy-customer properties-client year-experience";
+  }
+
+  .card2 {
+    grid-template-areas: "dream-home property-value property-management informed-decision";
+  }
+}

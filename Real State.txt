@@ -1,0 +1,410 @@
+-------- Home --------
+- .logo-name -- estatein
+- .home-top > .top-heading -- <span><i class="ri-sparkling-2-fill"></i></span>Discover Your Dream Property with Estatein <span>learn more</span>
+
+-- .home-details
+-- .home-info
+- .home-heading -- Discover Your Dream Property with Estatein
+- .home-para -- Your journey to finding the perfect property begins here. Explore our listings to find the home that matches your dreams.
+-- .home-buttons
+- .home-learn - learn more
+- .home-properties - browse properties
+-- .home-cards
+-- .home-card
+- .card-heading - 200+
+- .card-para - happy customers
+
+- .card-heading - 10k+
+- .card-para - properties for clients
+
+- .card-heading - 16+
+- .card-para - years of experience
+
+-- .home-keyPoints
+-- .home-key
+-- .home-key-logo - download kiya hai
+-- .home-key-para - find your dream home
+-- .home-key-arrow - <i class="ri-arrow-right-up-long-line"></i>
+
+-- .home-key-logo - download kiya hai
+-- .home-key-para - unlock property value
+-- .home-key-arrow - <i class="ri-arrow-right-up-long-line"></i>
+
+-- .home-key-logo - download kiya hai
+-- .home-key-para - effortless property management
+-- .home-key-arrow - <i class="ri-arrow-right-up-long-line"></i>
+
+-- .home-key-logo - download kiya hai
+-- .home-key-para - smart investments, informed decisions
+-- .home-key-arrow - <i class="ri-arrow-right-up-long-line"></i>
+
+-- .home-properties
+-- .properties-info
+- .properties-icon - <i class="ri-shining-fill"></i>
+- .properties-heading - featured properties
+- .properties-para - Explore our handpicked selection of featured properties. Each listing offers a glimpse into exceptional homes and investments available through Estatein. Click "View Details" for more information.
+- .properties-btn - view all properties
+
+-- .properties-cards
+-- .properties-card
+- .properties-image - download kiya hai
+- .properties-card-heading - seaside serenity villa
+- .properties-card-para - A stunning 4-bedroom, 3-bathroom villa in a peaceful suburban neighborhood... Read More
+-- .properties-card-services
+-- .properties-card-service
+- .properties-card-service-logo - download kiya hai
+- .properties-card-service-name - 4-bedroom
+
+- .properties-card-service-logo - download kiya hai
+- .properties-card-service-name - 3-bathroom
+
+- .properties-card-service-logo - download kiya hai
+- .properties-card-service-name - villa
+-- .properties-card-prices
+-- .properties-card-price
+- .properties-card-price-heading - price
+- .properties-card-price-para - 550000
+-- .properties-card-button
+- .properties-card-button-details - view property details
+
+- left-arrow - <i class="ri-arrow-left-long-fill"></i>
+- right-arrow - <i class="ri-arrow-right-long-fill"></i>
+
+-- .home-clients
+-- .client-info
+- .client-icon - <i class="ri-shining-fill"></i>
+- .client-heading - what our clients say
+- .client-para - Read the success stories and heartfelt testimonials from our valued clients. Discover why they chose Estatein for their real estate needs.
+- .client-btn - view all testimonials
+
+-- .client-cards
+-- .client-card
+-- ..client-card-imgs
+- .client-.card-img - <i class="ri-star-fill"></i>
+- .client-.card-heading - exceptional service!
+- .client-card-para - Our experience with Estatein was outstanding. Their team's dedication and professionalism made finding our dream home a breeze. Highly recommended!
+-- .client-profile-infos
+- client-profile-info
+- client-profile-img - download hai
+- client-profile-heading - wade warren
+- client-profile-para - USA, California
+
+- client-profile-info
+- client-profile-img - download hai
+- client-profile-heading - emelie thomson
+- client-profile-para - USA, Florida
+
+- client-profile-info
+- client-profile-img - download hai
+- client-profile-heading - john mans
+- client-profile-para - USA, Nevada
+
+-- .home-asked-questions
+-- .home-asked-question
+- .home-asked-question-heading - frequently asked questions
+- .home-asked-question-para - Find answers to common questions about Estatein's services, property listings, and the real estate process. We're here to provide clarity and assist you every step of the way.
+- .home-asked-question-btn - View All FAQ’s
+-- .home-asked-cards
+-- .home-asked-card
+- .home-asked-heading - How do I search for properties on Estatein?
+- .home-asked-para - Learn how to use our user-friendly search tools to find properties that match your criteria.
+- .home-asked-btn - read more
+
+-- .home-asked-card
+- .home-asked-heading - What documents do I need to sell my property through Estatein?
+- .home-asked-para - Find out about the necessary documentation for listing your property with us.
+- .home-asked-btn - read more
+
+-- .home-asked-card
+- .home-asked-heading - How can I contact an Estatein agent? 
+- .home-asked-para - Discover the different ways you can get in touch with our experienced agents.
+- .home-asked-btn - read more
+
+-- .home-journey
+-- .home-journey-info
+- .home-journey-heading - start your real estate journey today
+- .home-journey-para - Your dream property is just a click away. Whether you're looking for a new home, a strategic investment, or expert real estate advice, Estatein is here to assist you every step of the way. Take the first step towards your real estate goals and explore our available properties or get in touch with our team for personalized assistance.
+- .home-btn - explore properties
+
+-- .fotter
+-- .fotter-details
+-- .fotter-details-left
+-- .fotter-logos
+- .fotter-logo - download hai
+- .fotter-name - estatein
+
+-- .fotter-inputs
+- .fotter-email-img
+- .fotter-send-img
+-- .fotter-details-right
+-- .fotter-details-home
+- li > hero section
+- li > features
+- li > properties
+- li > testimonials
+- li > faq's
+-- .fotter-details-about
+- li > our story
+- li > our works
+- li > how it works
+- li > our team
+- li > our clients
+-- .fotter-details-properties
+- li > portfolio
+- li > categories
+-- .fotter-details-services
+- li > valuation mastery
+- li > strategic marketing
+- li > negotiation wizardry
+- li > closing success
+- li > property management
+-- .fotter-details-contact
+- li > contact form
+- li > our offices
+-- .footer-copyrights
+-- .footer-copyrights-left
+- .footer-copyrights-left-info1 - @2023 estatein. all rights reserved.
+- .footer-copyrights-left-info2 - terms & conditions
+-- .footer-copyrights-right
+- .footer-logo
+- .facebook - <i class="ri-facebook-fill"></i>
+- .linkedin - <i class="ri-linkedin-box-fill"></i>
+- .twitter - <i class="ri-twitter-fill"></i>
+- .youtube - <i class="ri-youtube-fill"></i>
+
+-------- About --------
+-- .about-details
+-- .about-infos
+- .about-heading - our journey
+- .about-para - Our story is one of continuous growth and evolution. We started as a small team with big dreams, determined to create a real estate platform that transcended the ordinary. Over the years, we've expanded our reach, forged valuable partnerships, and gained the trust of countless clients.
+-- .about-cards
+- .about-card
+- .about-heading - 200+
+- .about-para - happy customers
+
+- .about-card
+- .about-heading - 10k+
+- .about-para - properties for clients
+
+- .about-card
+- .about-heading - 16+
+- .about-para - years of experience
+-- .about-img
+- .img - download hai
+
+-- .about-values
+-- .about-details
+- .about-detail-heading - our values
+- .about-detail-para - Our story is one of continuous growth and evolution. We started as a small team with big dreams, determined to create a real estate platform that transcended the ordinary.
+-- .about-value-infos
+- .about-value-card
+-- .about-img-heading
+- .about-img - download hai
+- .about-heading - trust
+-- .about-para
+- Trust is the cornerstone of every successful real estate transaction.
+
+- .about-value-card
+-- .about-img-heading
+- .about-img - download hai
+- .about-heading - excellence
+-- .about-para
+- We set the bar high for ourselves. From the properties we list to the services we provide.
+
+- .about-card
+-- .about-img-heading
+- .about-img - download hai
+- .about-heading - client-centric
+-- .about-para
+- Your dreams and needs are at the center of our universe. We listen, understand.
+
+- .about-value-card
+-- .about-img-heading
+- .about-img - download hai
+- .about-heading - our commitment
+-- .about-para
+- We are dedicated to providing you with the highest level of service, professionalism, and support.
+
+-- .about-achievements
+-- .about-achievement-infos
+-- .about-achivement-info-imgs
+- .about-achievement-heading
+- .about-achievement-para
+-- .about-achievement-cards
+- .about-achievement-card
+- .about-achievement-heading - 3+ years of excellence
+- .about-achievement-para - With over 3 years in the industry, we've amassed a wealth of knowledge and experience, becoming a go-to resource for all things real estate.
+
+- .about-achievement-card
+- .about-achievement-heading - happy clients
+- .about-achievement-para - Our greatest achievement is the satisfaction of our clients. Their success stories fuel our passion for what we do.
+
+- .about-achievement-card
+- .about-achievement-heading - industry recognition
+- .about-achievement-para - We've earned the respect of our peers and industry leaders, with accolades and awards that reflect our commitment to excellence.
+
+-- .about-navigating
+-- .about-navigating-infos
+- .about-navigating-images
+- .about-navigating-heading - navigating the estatein experience
+- .about-navigating-para - At Estatein, we've designed a straightforward process to help you find and purchase your dream property with ease. Here's a step-by-step guide to how it all works.
+-- .about-navigating-cards
+-- .about-navigating-card
+-- .about-navigating-steps
+- .about-navigating-step - step1
+-- .about-navigating-details
+- .about-navigating-heading - Discover a World of Possibilities
+- .about-navigating-para - Your journey begins with exploring our carefully curated property listings. Use our intuitive search tools to filter properties based on your preferences, including location, type, size, and budget.
+
+-- .about-navigating-card
+-- .about-navigating-steps
+- .about-navigating-step - step2
+-- .about-navigating-details
+- .about-navigating-heading - Narrowing Down Your Choices
+- .about-navigating-para - Once you've found properties that catch your eye, save them to your account or make a shortlist. This allows you to compare and revisit your favorites as you make your decision.
+
+-- .about-navigating-card
+-- .about-navigating-steps
+- .about-navigating-step - step3
+-- .about-navigating-details
+- .about-navigating-heading - Personalized Guidance
+- .about-navigating-para - Have questions about a property or need more information? Our dedicated team of real estate experts is just a call or message away.
+
+-- .about-navigating-card
+-- .about-navigating-steps
+- .about-navigating-step - step4
+-- .about-navigating-details
+- .about-navigating-heading - See It for Yourself
+- .about-navigating-para - Arrange viewings of the properties you're interested in. We'll coordinate with the property owners and accompany you to ensure you get a firsthand look at your potential new home.
+
+-- .about-navigating-card
+-- .about-navigating-steps
+- .about-navigating-step - step5
+-- .about-navigating-details
+- .about-navigating-heading - Making Informed Decisions
+- .about-navigating-para - Before making an offer, our team will assist you with due diligence, including property inspections, legal checks, and market analysis. We want you to be fully informed and confident in your choice.
+
+-- .about-navigating-card
+-- .about-navigating-steps
+- .about-navigating-step - step6
+-- .about-navigating-details
+- .about-navigating-heading - Getting the Best Deal
+- .about-navigating-para - We'll help you negotiate the best terms and prepare your offer. Our goal is to secure the property at the right price and on favorable terms.
+
+-- .about-teams
+-- .about-infos
+-- .about-imgs
+- .about-heading - Meet the Estatein Team
+- .about-para - At Estatein, our success is driven by the dedication and expertise of our team. Get to know the people behind our mission to make your real estate dreams a reality.
+-- .about-team-cards
+-- .about-team-card
+-- .about-team-imgs
+- .about-team-profile-img - download hai
+- .about-team-twitter-icon - <i class="ri-twitter-fill"></i>
+-- .about-team-details
+-- .about-team-detail
+- .about-team-name - max mitchell
+- .about-team-position - founder
+-- .about-team-contact
+- .about-team-hello - Say Hello 👋
+- .about-team-send - <i class="ri-send-plane-fill"></i>
+
+-- .about-team-card
+-- .about-team-imgs
+- .about-team-profile-img - download hai
+- .about-team-twitter-icon - <i class="ri-twitter-fill"></i>
+-- .about-team-details
+-- .about-team-detail
+- .about-team-name - sarah johnson
+- .about-team-position - chief real estate officer
+-- .about-team-contact
+- .about-team-hello - Say Hello 👋
+- .about-team-send - <i class="ri-send-plane-fill"></i>
+
+-- .about-team-card
+-- .about-team-imgs
+- .about-team-profile-img - download hai
+- .about-team-twitter-icon - <i class="ri-twitter-fill"></i>
+-- .about-team-details
+-- .about-team-detail
+- .about-team-name - david brown
+- .about-team-position - head of property management
+-- .about-team-contact
+- .about-team-hello - Say Hello 👋
+- .about-team-send - <i class="ri-send-plane-fill"></i>
+
+-- .about-team-card
+-- .about-team-imgs
+- .about-team-profile-img - download hai
+- .about-team-twitter-icon - <i class="ri-twitter-fill"></i>
+-- .about-team-details
+-- .about-team-detail
+- .about-team-name - michael turner
+- .about-team-position - legal counsel
+-- .about-team-contact
+- .about-team-hello - Say Hello 👋
+- .about-team-send - <i class="ri-send-plane-fill"></i>
+
+-- .about-valued-infos
+-- .about-valued-info
+-- .about-valued-imgs
+- .about-valued-heading - our valued clients
+- .about-valued-para - At Estatein, we have had the privilege of working with a diverse range of clients across various industries. Here are some of the clients we've had the pleasure of serving
+-- .about-valued-cards
+-- .about-valued-card
+-- .about-valued-card-infos
+-- .about-valued-card-sinces
+-- .about-valued-card-since
+- .about-valued-card-year - since 2019
+- .about-valued-card-company - ABC Corporation
+-- .about-valued-card-btn - visit website
+-- .about-valued-card-domains
+-- .about-valued-card-domain
+- .about-valued-card-domain-name - domain
+- .about-valued-card-commercial-name - commercial real estate
+-- .about-valued-card-category
+- .about-valued-card-category-name - category
+- .about-valued-card-category-type-name - luxury home development
+-- .about-valued-card-messages
+- .about-valued-card-said - what they said 🤗
+- .about-valued-card-msg - Estatein's expertise in finding the perfect office space for our expanding operations was invaluable. They truly understand our business needs.
+
+-- .about-valued-card
+-- .about-valued-card-infos
+-- .about-valued-card-sinces
+-- .about-valued-card-since
+- .about-valued-card-year - since 2018
+- .about-valued-card-company - GreenTech Enterprises
+-- .about-valued-card-btn - visit website
+-- .about-valued-card-domains
+-- .about-valued-card-domain
+- .about-valued-card-domain-name - domain
+- .about-valued-card-commercial-name - commercial real estate
+-- .about-valued-card-category
+- .about-valued-card-category-name - category
+- .about-valued-card-category-type-name - retail space
+-- .about-valued-card-messages
+- .about-valued-card-said - what they said 🤗
+- .about-valued-card-msg - Estatein's expertise in finding the perfect office space for our expanding operations was invaluable. They truly understand our business needs.
+
+-------- Properties --------
+-- .properties.infos
+- .properties.heading - find your dream property
+- .properties.para - Welcome to Estatein, where your dream property awaits in every corner of our beautiful world. Explore our curated selection of properties, each offering a unique story and a chance to redefine your life. With categories to suit every dreamer, your journey
+-- .properties-inputs
+- .properties-search - <i class="ri-search-line"></i>
+- .properties-location - <i class="ri-map-pin-fill"></i>
+- .properties-property-type - <i class="ri-building-2-fill"></i>
+- .properties-pricing-range - <i class="ri-cash-fill"></i>
+- .properties-property-size - <i class="ri-instance-fill"></i>
+- .properties-build-year - <i class="ri-calendar-fill"></i>
+
+-- .properties-world-details
+- .properties.world.heading - Discover a World of Possibilities
+- .properties.world.para - Our portfolio of properties is as diverse as your dreams. Explore the following categories to find the perfect property that resonates with your vision of home
+-- .properties-world-infos
+-- .properties-world-card
+- .properties-world-card-img - download kiya hai
+- .properties-world-card
+
+-------- Services --------
