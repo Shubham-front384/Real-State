@@ -138,7 +138,7 @@ const TestimonialCard = () => {
       >
         {testimonials.map((item) => (
           <SwiperSlide key={item.id}>
-            <div className="border-2 border-gray-400  rounded-2xl px-7 py-6 hover:border-[#333] transition flex flex-col gap-7 h-[320px] justify-center">
+            <div className="border-2 border-gray-400  rounded-2xl px-7 py-6 hover:border-[#333] transition flex flex-col gap-7 justify-center lg:gap-[40px] lg:p-[50px]">
               {/* Star Img */}
               <div className="star-img flex gap-2">
                 {[...Array(item.rating)].map((_, index) => (
@@ -148,10 +148,10 @@ const TestimonialCard = () => {
 
               {/* Details */}
               <div className="flex flex-col gap-3">
-                <h2 className="text-xl font-semibold md:text-2xl">
+                <h2 className="text-xl font-semibold md:text-2xl lg:text-[24px]">
                   {item.heading}
                 </h2>
-                <p className="text-lg font-medium leading-[150%] md:text-lg">
+                <p className="text-lg font-medium leading-[150%] md:text-lg lg:text-[18px]">
                   {item.para}
                 </p>
               </div>
@@ -164,10 +164,10 @@ const TestimonialCard = () => {
                 </div>
                 <div>
                   <h5 className="font-medium">
-                    <span className="text-lg md:text-xl">
+                    <span className="text-lg md:text-xl lg:text-[20px]">
                       {item.name}
                     </span><br />
-                    <span className="text-lg text-gray-400">
+                    <span className="text-lg text-gray-400 lg:text-[18px]">
                       {item.location}
                     </span>
                   </h5>

@@ -10,10 +10,10 @@ const Properties = () => {
             <i className="ri-shining-fill text-sm text-gray-500"></i>
             <i className="ri-shining-fill text-gray-600" style={{fontSize: "5.6px"}}></i>
           </div>
-          <h2 className="properties-heading capitalize font-semibold text-3xl md:text-[38px]">
+          <h2 className="properties-heading capitalize font-semibold text-3xl md:text-[38px] lg:text-[48px]">
             featured properties
           </h2>
-          <p className="properties-para text-gray-300 font-medium text-lg leading-[150%] md:text-lg">
+          <p className="properties-para text-gray-300 font-medium text-lg leading-[150%] md:text-lg lg:text-[18px]">
             Explore our handpicked selection of featured properties. Each listing offers a glimpse into exceptional homes and investments available through Estatein.
           </p>
         </div>

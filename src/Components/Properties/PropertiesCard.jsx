@@ -244,29 +244,29 @@ const PropertiesCard = () => {
               <img src={item.image} alt={item.title} className="w-full h-56 object-cover rounded-xl" />
 
               <div className="flex flex-col">
-                <h2 className="text-xl font-semibold md:text-2xl">{item.title}</h2>
-                <p className="text-lg font-medium text-gray-400 md:text-lg">
+                <h2 className="text-xl font-semibold md:text-2xl lg:text-[24px]">{item.title}</h2>
+                <p className="text-lg font-medium text-gray-400 leading-[150%] md:text-lg lg:text-xl">
                   {item.desc} <span className="text-white cursor-pointer underline">Read More</span>
                 </p>
               </div>
 
               {/* Tags */}
               <div className="flex gap-3 flex-wrap">
-                <div className="flex items-center gap-2 bg-[#242424] px-4 py-2 rounded-full text-sm">
-                  <i className="ri-hotel-bed-fill text-2xl md:text-2xl"></i>
-                  <span className="text-lg">
+                <div className="flex items-center gap-2 bg-[#242424] px-4 py-2 rounded-full text-sm lg:py-[13px] lg:px-[15px]">
+                  <i className="ri-hotel-bed-fill text-2xl md:text-2xl lg:text-[22px]"></i>
+                  <span className="text-lg font-medium lg:text-xl">
                     {item.bed}
                   </span>
                 </div>
-                <div className="flex items-center gap-2 bg-[#242424] px-4 py-2 rounded-full text-sm">
-                  <img src={Bathroom} alt="bathroom-img" className="md:w-7" />
-                  <span className="text-lg">
+                <div className="flex items-center gap-2 bg-[#242424] px-4 py-2 rounded-full text-sm lg:py-[13px] lg:px-[15px]">
+                  <img src={Bathroom} alt="bathroom-img" className="md:w-7 lg:w-6" />
+                  <span className="text-lg font-medium lg:text-xl">
                     {item.bath}
                   </span>
                 </div>
-                <div className="flex items-center gap-2 bg-[#242424] px-4 py-2 rounded-full text-sm">
-                  <i className="ri-building-2-fill text-2xl md:text-2xl"></i>
-                  <span className="text-lg">
+                <div className="flex items-center gap-2 bg-[#242424] px-4 py-2 rounded-full text-sm lg:py-[13px] lg:px-[15px]">
+                  <i className="ri-building-2-fill text-2xl md:text-2xl lg:text-[22px]"></i>
+                  <span className="text-lg font-medium lg:text-xl">
                     {item.type}
                   </span>
                 </div>
@@ -274,15 +274,15 @@ const PropertiesCard = () => {
 
               {/* Price */}
               <div className="flex gap-15 items-center">
-                <p className="text-gray-400 text-lg font-medium">
+                <p className="text-gray-400 text-lg font-medium lg:text-xl">
                   Price <br />
-                  <span className="text-white text-2xl font-semibold mt-1">
+                  <span className="text-white text-2xl font-semibold mt-1 lg:text-[24px]">
                     {item.price}
                   </span>
                 </p>
 
                 {/* Button */}
-                <button className="font-medium w-full bg-purple-600 hover:bg-purple-700 transition text-white py-3 rounded-xl text-lg px-3.5">
+                <button className="font-medium w-full bg-purple-600 hover:bg-purple-700 transition text-white py-3 rounded-xl text-lg px-3.5 lg:text-[18px]">
                   View Property Details
                 </button>
               </div>
